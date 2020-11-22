@@ -102,7 +102,6 @@ For this practice, add to the Result Section the following:
 Commit and push the file main.c created once you completed all the steps of the document in the repository.
 
 ### Demonstration
-Record a video of the practice’s functionality and upload it on youtube. The video must contain a short explanation.
-
+Video: https://youtu.be/yhvOUMG3MhU
 ## Conclusion
-In this section, you should add the conclusions, suggestions, and/or problems of the laboratory activities. Each team member must add his/her own conclusion (5 lines as minimum for each member).
+En esta práctica se aprendio a programar un teclado matricial usando push buttons y se practicó la lógica de cómo desplazar los dígitos según el número binario a utilizar por medio de funciones. Un reto de esta práctica fue que al no tener la licencia del Proteus, no se pudo programar en base de prueba y error, sino que fue todo con el uso de las tablas de verdad y con papel a mano, por lo que el Proteus hubiera sido de utilidad para ir viendo las modificaciones que se le hacían al programa. También, en está práctica se empleó un flow diagram, lo que personalmente, me ayudó a organizar de mejor manera los pasos que iba haciendo mi código, en remplazo al Proteus. Igualmente, se aprendió el principio básico de un teclado matricual con el uso de más de un switch a un input individual de un micro. 
